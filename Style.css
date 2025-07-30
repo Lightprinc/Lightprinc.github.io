@@ -1,0 +1,36 @@
+.Nav_header{
+    margin: auto;
+    display: flex;
+    width: auto;
+    height: 70px;
+    justify-content: space-evenly;
+    justify-items: center;
+
+    border: 5px black solid;
+}
+
+.Nav_items{
+    align-self: center;
+
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+
+    height: min-content;
+
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+#imme{
+    align-self: center;
+}
+
+.Profile_container{
+    margin: auto;
+    justify-items: center;
+}
+
+a{
+    text-decoration: none;
+}
